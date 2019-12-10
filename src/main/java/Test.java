@@ -53,4 +53,12 @@ public class Test {
 
 
     }
+
+    /**
+     * 新增分支方法
+     *
+     */
+    public void fenzhi(){
+        System.out.println("fenzhi新增方法");
+    }
 }
